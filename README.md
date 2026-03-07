@@ -1,6 +1,6 @@
 ﻿# Personal Website
 
-Shobha's conscious living and transformational coaching site.
+Transform the way you feel and live with Shobha's conscious living and coaching biohacks.
 
 ## About
 Showcasing tips, biohacks, and ancient wisdom adapted for modern times to create a practical and tangible transformation in your life.
