@@ -1,0 +1,24 @@
+﻿# Personal Website
+
+Shobha's transformational coaching and conscious living resources.
+# Create .gitignore:
+@"
+# Dependencies
+node_modules/
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
